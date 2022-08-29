@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola👋, soy ***Peter Quispe Mendoza***. Soy estudiante de Ingenieria de Sistemas, y este es mi repositorio personal, aqui publique algunos proyectos realizados en mi tiempo libre 👯.
+### Actualmente me encuentro trabajando en un sistema experto con python y flask. 🔭
+- 📫 Como me puedes buscar: <peterqm@hotmail.com>, <peterqmendoza@gmail.com>.
 
 <!--
 **PeterQMendoza/PeterQMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
