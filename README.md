@@ -30,8 +30,8 @@ Este es mi repositorio personal, donde comparto proyectos realizados en mi tiemp
 ## 🤝 Conectemos
 
 📫 Email: [peterqm@hotmail.com](mailto:peterqm@hotmail.com) | [peterqmendoza@gmail.com](mailto:peterqmendoza@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/peterqmendoza](https://linkedin.com/in/peterqmendoza)  
-📁 CV: [Ver en Google Drive](https://drive.google.com/tu-enlace-aqui)  
+<!--🔗 LinkedIn: [linkedin.com/in/peterqmendoza](https://linkedin.com/in/peterqmendoza)
+📁 CV: [Ver en Google Drive](https://drive.google.com/tu-enlace-aqui)  -->
 🐙 GitHub: [github.com/PeterQMendoza](https://github.com/PeterQMendoza?tab=repositories)
 
 ---
